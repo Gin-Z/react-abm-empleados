@@ -1,0 +1,51 @@
+
+/* minimal styles, personalizalas */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+input, select, textarea, button {
+  padding: 8px;
+  margin: 4px 0;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+}
+button {
+  font-size: 1rem;
+  font-weight: bold;
+  padding: 10 px 20 px;
+  color: white;
+  border:none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.5 ease;
+}
+.add-button{
+  background-color: green;
+}
+.add-button:hover{
+  background-color: forestgreen;
+}
+.delete-button{
+  background-color: red;
+}
+.delete-button:hover{
+  background-color: darkred;
+}
+.edit-button{
+  background-color: blue;
+}
+.edit-button:hover{
+  background-color: darkblue;
+}
+.cancel-button{
+  background-color: gray;
+}
+.edit-button:hover{
+  background-color: darkgray;
+}
+
+table th, table td {
+  padding: 8px;
+}

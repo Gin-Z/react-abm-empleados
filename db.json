@@ -1,0 +1,18 @@
+{
+  "empleados": [
+    {
+      "nombre": "Juan Pérez",
+      "email": "juan@empresa.com",
+      "puesto": "Frontend",
+      "estado": "Inactivo",
+      "id": "1"
+    },
+    {
+      "nombre": "Pedro Pascal",
+      "email": "pedropascal@gmail.com",
+      "puesto": "CISO",
+      "estado": "Activo",
+      "id": "f734"
+    }
+  ]
+}

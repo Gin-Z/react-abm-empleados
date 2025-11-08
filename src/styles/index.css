@@ -42,7 +42,7 @@ button {
 .cancel-button{
   background-color: gray;
 }
-.edit-button:hover{
+.cancel-button:hover{
   background-color: darkgray;
 }
 
